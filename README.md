@@ -1,3 +1,13 @@
+# DIO - Trilha .NET - Nuvem com Microsoft Azure
+www.dio.me
+
+---
+
+## 🔧 Desafio de projeto
+Implementar uma Web API em .NET para um sistema de RH que realize operações CRUD (criar, ler, atualizar e excluir) de funcionários. A cada alteração (inclusão, atualização ou exclusão), um log completo do funcionário deve ser armazenado em uma Azure Table.
+
+---
+
 ## ✅ Objetivo
 
 Construir uma **Web API** que:
